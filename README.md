@@ -1,2 +1,2 @@
 # chatcat
-A chat bot work on itchat
+A chat bot worked on itchat
