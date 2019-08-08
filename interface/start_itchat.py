@@ -9,7 +9,7 @@ def text_reply(msg):
 def main():
     itchat.auto_login()
     itchat.send(u'测试消息发送', 'filetranser')
-    print(itchat.get_friends().decode('utf-8''))
+    print(itchat.get_friends().decode('utf-8'))
     itchat.run()
 
 
